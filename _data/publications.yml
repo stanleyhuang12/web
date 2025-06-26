@@ -1,22 +1,25 @@
 main:
 
-  - title: this is a publication
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Eating disorder risk and diagnosis among East Asian American youth: Findings from the Healthy Minds Study, 2020–2023"
+    authors: Gao, C., Chung, J., Xu, A., <strong>Huang, S.</strong>, Cheng, S., Sun, A., Xu, W., Beccia, A., Law, M., Sunderji, N., Austin, S. B., & Raffoul, A. (2025).
+    conference_short: IJED
+    conference: International Journal on Eating Disorders <strong> (IJED) </strong>, 2025.
+    desc: We find that East Asian Americans youth do not have a higher risk of an eating disorder compared to white American youths, but they are half as likely to be diagnosed when presented with the same risk. 
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: " Digital well-being features on social media platforms: An LLM-assisted analysis of social media company announcements."
+    authors: Liu, Y., <strong>Huang, S.</strong>, Xing, E., Viswanath, K., & Iyer, R.
+    conference_short: TBD
+    conference: TBD.
+    desc: We develop a computer-assisted pipeline to perform content analysis on long-form social media news articles to understand coverage and impact of social media design changes. 
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
