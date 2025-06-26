@@ -6,7 +6,7 @@ layout: homepage
 
 I am an undergraduate student at Boston University, studying data science and economics. 
 
-## Current Projects 
+## Ongoing Projects 
 *Last Updated June 25, 2025*
 - Boston University's Cognitive Data Science Lab (PI: [Joshua Peterson](https://www.bu.edu/cds-faculty/profile/joshua-peterson/) & Chiara Binelli):
   Explaining and predicting people's climate change awareness and support for green policies using psychological models and neural networks. (with
@@ -33,3 +33,5 @@ I am an undergraduate student at Boston University, studying data science and ec
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
