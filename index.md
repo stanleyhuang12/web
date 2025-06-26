@@ -11,7 +11,7 @@ I am an undergraduate student at Boston University, studying data science and ec
 - Boston University's Cognitive Data Science Lab (PI: [Joshua Peterson](https://www.bu.edu/cds-faculty/profile/joshua-peterson/) & Chiara Binelli):
   Explaining and predicting people's climate change awareness and support for green policies using psychological models and neural networks. (with
   Bartu Tamer) 
-- Boston Children's Hospital (PI: [Bryn Austin](https://hsph.harvard.edu/profile/sydney-bryn-austin/):
+- Boston Children's Hospital (PI: [Bryn Austin](https://hsph.harvard.edu/profile/sydney-bryn-austin/)):
   (1) Develop analytic and simulation models of how dark patterns on social media affect mental health outcomes in adolescents
   (2) Use activation editing to steer large language models (LLMs) to output regionally tailored public health advocacy messaging 
 - Harvard T.H. Chan School of Public Health (PI: [Kasisomayajula (Vish) Viswanath](https://hsph.harvard.edu/profile/kasisomayajula-viswanath/)):
