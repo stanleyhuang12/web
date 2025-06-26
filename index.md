@@ -21,16 +21,14 @@ I am an undergraduate student at Boston University, studying data science and ec
 ## Research Interests
 
 - **Computational social sciences:** NLP, applied deep learning, Human-AI interactions
-- **Epidemiology & Public Health:** computational epidemiology, eating disorders, mental health, health behavior 
+- **Epidemiology & Public Health:** computational epidemiology, eating disorders, mental health, health behavior
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/presentations.md %}
+- **[June 2025]** started my academic website woooo!
+- **[June 2025]** Research accepted to Stanford's Trust & Safety Research Conference
+- **[May 2025]** Joined Boston University's Cognitive Data Science Lab 
 
 {% include_relative _includes/publications.md %}
 
